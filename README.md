@@ -1,11 +1,11 @@
-# 🧠 OrchestrAI – Intelligent Multi-Agent System
+# 🧠 OrchestrAI – Intelligent Multi-Agent System :
 
 A web-based AI system where multiple specialized agents collaborate to solve
 real-world tasks with planning, research, execution, critique, and memory.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture :
 
 ```
 User → React Frontend → FastAPI Backend → Orchestrator
@@ -20,7 +20,7 @@ User → React Frontend → FastAPI Backend → Orchestrator
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.11+
@@ -79,7 +79,7 @@ Frontend runs at: http://localhost:3000
 
 ---
 
-## 🔑 API Keys Required
+##  API Keys Required
 
 | Key | Where to get | Free tier |
 |-----|-------------|-----------|
@@ -89,7 +89,7 @@ Frontend runs at: http://localhost:3000
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 orchestrai/
@@ -140,7 +140,7 @@ orchestrai/
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Multi-Agent Pipeline** – Planner → Research → Execution → Critic → Memory
 - **Real-time Agent Visualization** – WebSocket broadcasts which agent is active
@@ -154,7 +154,7 @@ orchestrai/
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 ### Backend → Render.com
 1. Push `backend/` folder to GitHub
@@ -172,7 +172,7 @@ orchestrai/
 
 ---
 
-## 🎓 Viva Quick Reference
+## Quick Reference
 
 **What is OrchestrAI?**
 > A multi-agent AI system where specialized agents (Planner, Researcher, Executor, Critic, Memory) collaborate via an Orchestrator to solve complex tasks better than a single AI model.
@@ -186,7 +186,7 @@ orchestrai/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
