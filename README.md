@@ -196,3 +196,9 @@ orchestrai/
 | Memory | FAISS (vectors), MongoDB (documents) |
 | Real-time | WebSockets |
 | Search Tool | SerpAPI |
+
+---
+
+##  Author
+
+**Mayank Bambal** — [GitHub](https://github.com/mayankbambal2005) · [LinkedIn](https://linkedin.com/in/mayank-bambal-725835410)
